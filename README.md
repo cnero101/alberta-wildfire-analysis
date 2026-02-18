@@ -283,10 +283,10 @@ Contributions welcome! Please follow these guidelines:
 **Questions?** Open an [issue](https://github.com/yourusername/alberta-wildfire-analysis/issues)
 
 **Project Maintainer:**  
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Name:** [Ifeanyi Njoku]
+- **Email:** [ifeanyinjoku2@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/ifeanyi-e-njoku]
+- **Portfolio:** [https://github.com/cnero101/alberta-wildfire-analysis.git](https://yourportfolio.com)
 
 **Want to collaborate?** Reach out directly or open a discussion!
 
