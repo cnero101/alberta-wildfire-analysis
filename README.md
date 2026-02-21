@@ -152,7 +152,7 @@ alberta-wildfire-analysis/
 - Multiple visualization types for each question
 
 ### 10. Machine Learning
-- **Unsupervised:** K-means clustering (k=5) to discover fire types
+- **Unsupervised:** K-means clustering (k=4) to discover fire types
 - **Supervised:** Random Forest to predict fire size categories
 - **Validation:** Silhouette scores, confusion matrices, precision/recall
 
@@ -167,15 +167,15 @@ alberta-wildfire-analysis/
 ## 📊 Sample Visualizations
 
 ### Temporal Trends (Question 1)
-Annual fire frequency shows high year-to-year variability with extreme years (2016, 2019, 2023) rather than consistent linear increase.
+Annual fire frequency shows high year-to-year variability with extreme years (2016, 2019, 2023) rather than a consistent linear increase.
 
-### Spatial Clustering (Question 2 & 6)
+### Spatial Clustering (Questions 2 & 6)
 Geographic analysis reveals three distinct fire environments: Northern boreal (remote, lightning-caused), Central transition zone, and Southern grassland (human-caused).
 
 ### Machine Learning Results (Question 6)
-K-means clustering identified 5 fire behavior types with 87% Random Forest classification accuracy.
+K-means clustering identified 4 fire behavior types with 87% Random Forest classification accuracy.
 
-*Note: All visualizations generated automatically when running the notebook*
+*Note: All visualizations are generated automatically when running the notebook*
 
 ---
 
