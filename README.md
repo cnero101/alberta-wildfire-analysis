@@ -23,7 +23,7 @@ This project analyzes **26,551 wildfire incidents** from Alberta, Canada (2006-2
 | **3** | What causes fires by region? | Chi-square test, contingency analysis | Causes vary significantly N→S |
 | **4** | Does fast response reduce size? | Correlation analysis | Weak correlation (r≈0.3) |
 | **5** | What weather predicts fire behavior? | Pearson correlation, scatter analysis | Combinations matter most |
-| **6** | Can ML predict fire types? | K-means, Random Forest | 87% accuracy, 5 fire types |
+| **6** | Can ML predict fire types? | K-means, Random Forest | 87% accuracy, 4 fire types |
 
 ### 💡 Key Insights
 
