@@ -28,7 +28,7 @@ This project analyzes **26,551 wildfire incidents** from Alberta, Canada (2006-2
 ### 💡 Key Insights
 
 ✅ **87% ML prediction accuracy** for fire size classification  
-✅ **5 distinct fire behavior types** identified through clustering  
+✅ **4 distinct fire behavior types** identified through clustering  
 ✅ **Regional differences** support tailored management strategies  
 ✅ **High year-to-year variability** dominates temporal patterns  
 ✅ **Weather combinations** predict risk better than individual variables  
