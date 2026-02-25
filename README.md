@@ -8,6 +8,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-red)
 ![geopandas](https://img.shields.io/badge/geopandas-GIS-purple)
+[![nbviewer](https://img.shields.io/badge/View-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/cnero101/alberta-wildfire-analysis/blob/main/Wildfire_DataStory.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cnero101/alberta-wildfire-analysis/main?filepath=Wildfire_DataStory.ipynb)
 
 ---
 
