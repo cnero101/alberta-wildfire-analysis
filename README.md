@@ -1,4 +1,5 @@
 # 🔥 Alberta Wildfire Data Story (2006-2025)
+![Wildfire](https://atmosphere.copernicus.eu/sites/default/files/styles/hero_image_extra_large_2x/public/2025-12/header%2046%20%281%29_0.jpg?itok=oqmH-uU-)
 
 **A comprehensive data science investigation of 26,551 wildfire incidents across two decades**
 
